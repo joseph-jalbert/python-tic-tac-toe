@@ -1,0 +1,1 @@
+a very simple 2 player tic tac toe game to be played in the console, written with Python 2.7.6
